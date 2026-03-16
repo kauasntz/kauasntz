@@ -1,4 +1,5 @@
-<h1 align="center">Olá, me chamo Kauã</h1>
+# Olá, me chamo Kauã
+
 Graduando em **Sistemas de Informação** pela **Universidade Federal Rural do Rio de Janeiro (UFRRJ)**. Curioso por natureza, sempre busco aprender ou me aprofundar em alguma tecnologia.<br>
 <br>Atualmente me aprofundando em **Java**!
 
